@@ -1,12 +1,12 @@
 package oops.arrayAdvance;
 
-class Phone{
-	
+public class Phone {
+
     private String name;
     private String color;
     private float price;
     private int phoneId;
-    private Company company;  
+    private PhoneCompany company;
 
     public Phone(String name, String color, float price) {
         this.name = name;
@@ -15,15 +15,15 @@ class Phone{
     }
 
     public Phone(String name, String color, float price, int phoneId) {
-        this(name, color, price);       
-        this.phoneId = phoneId;       
+        this(name, color, price);
+        this.phoneId = phoneId;
     }
 
-    public void setCompany(Company company) {
+    public void setCompany(PhoneCompany company) {
         this.company = company;
     }
 
-    public Company getCompany() {
+    public PhoneCompany getCompany() {
         return company;
     }
 
@@ -43,4 +43,3 @@ class Phone{
         return phoneId;
     }
 }
-

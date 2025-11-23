@@ -1,4 +1,4 @@
-package TechnicalPrograms;
+package oops.technicalPrograms;
 
 public class StarPatternRec {
   static int patternRec(int n) {

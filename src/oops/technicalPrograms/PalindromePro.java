@@ -1,4 +1,4 @@
-package TechnicalPrograms;
+package oops.technicalPrograms;
 
 public class PalindromePro {
     public static void main(String[] args){

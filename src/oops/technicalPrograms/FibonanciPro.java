@@ -1,4 +1,4 @@
-package TechnicalPrograms;
+package oops.technicalPrograms;
 
 public class FibonanciPro {
    public static void main(String[] args) {

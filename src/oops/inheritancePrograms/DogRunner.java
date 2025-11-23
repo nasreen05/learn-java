@@ -1,11 +1,11 @@
-	package Inheritance;
+	package oops.inheritancePrograms;
 
-    import xworkz.inheritance.heriarchical.Dog;
+    import oops.inheritancePrograms.Dog;
 
     public class DogRunner {
 
 		    public static void main(String[] args) {
-		        xworkz.inheritance.heriarchical.Dog dog = new Dog();
+		        oops.inheritancePrograms.Dog dog = new Dog();
 		        dog.setName("golden Retrive");
 		        System.out.println("Dog name is : " + dog.getName());
 		        dog.setSound("bark");

@@ -1,9 +1,12 @@
-package library;
+package oops.library;
 
 public class BookRunner {
-        public static void main(String[] args) {
-            Book b1 = new Book("Java", "James Gosling", 550);
-            Book b2 = new Book("Java", "James Gosling", 550);
+    public BookRunner(String java, String jamesGosling, int i) {
+    }
+
+    public static void main(String[] args) {
+    BookRunner b1 = new BookRunner("Java", "James Gosling", 550);
+    BookRunner b2 = new BookRunner("Java", "James Gosling", 550);
 
             System.out.println(b1);
             System.out.println(b2);

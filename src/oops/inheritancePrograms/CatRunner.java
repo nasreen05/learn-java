@@ -1,11 +1,12 @@
-package Inheritance;
+package oops.inheritancePrograms;
 
-import xworkz.inheritance.heriarchical.Cat;
+import basic.controlStatement.LoopsPro1;
+import oops.inheritancePrograms.Cat;
 
 public class CatRunner {
 
 	public static void main(String[] args) {
-		xworkz.inheritance.heriarchical.Cat cat= new Cat();
+		oops.inheritancePrograms.Cat cat= new Cat();
 		cat.setName("White cat");
         System.out.println("Meow");
         cat.setSound("Meow");

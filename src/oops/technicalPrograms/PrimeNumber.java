@@ -1,4 +1,4 @@
-package TechnicalPrograms;
+package oops.technicalPrograms;
 
 public class PrimeNumber {
   public static void main(String[] args) {

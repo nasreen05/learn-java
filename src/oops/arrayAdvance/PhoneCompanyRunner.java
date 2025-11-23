@@ -1,13 +1,13 @@
 package oops.arrayAdvance;
 
-class PhoneCompanyRunner{
-	
+class PhoneCompanyRunner {
+
     public static void main(String[] args) {
 
-        Phone phone = new Phone("Samsung galaxy s24 ultra", "Black", 500000.00f, 123);
+        Phone phone = new Phone("Samsung Galaxy S24 Ultra", "Black", 500000.00f, 123);
 
-        // String CompanyName, float weight, float displaySize
-        Company company = new Company("Samsung", 2.5f, 6.5f);  
+        // String companyName, float weight, float displaySize
+        PhoneCompany company = new PhoneCompany("Samsung", 2.5f, 6.5f);
 
         phone.setCompany(company);
 
@@ -17,8 +17,7 @@ class PhoneCompanyRunner{
         System.out.println(phone.getPrice());
         System.out.println(phone.getPhoneId());
 
-        Company company1 = company;
-		System.out.println("Company details======");
+        System.out.println("Company details===============");
         System.out.println(company.getCompanyName());
         System.out.println(company.getWeight());
         System.out.println(company.getDisplaySize());

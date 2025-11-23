@@ -1,6 +1,6 @@
-package Inheritance;
+package oops.inheritancePrograms;
 
-import xworkz.inheritance.heriarchical.Animal;
+import oops.inheritancePrograms.Animal;
 
 public class AnimalRunner {
 

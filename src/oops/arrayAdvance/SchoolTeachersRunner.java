@@ -11,7 +11,7 @@ System.out.println(school.getName());
 System.out.println(school.getSchoolAddress());
 
 Teachers teachers = new Teachers("Rafiqul islam","Math",50000.0);
-school.setteachers(teachers);
+//school.setteachers(teachers);
 
 Teachers teachers1= teachers;
 System.out.println("Teachers Details");

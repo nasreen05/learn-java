@@ -1,12 +1,10 @@
-package Inheritance;
-
-import xworkz.inheritance.heriarchical.Elephant;
+package oops.inheritancePrograms;
 
 public class ElephantRunner {
 
 	public static void main(String[] args) {
 		
-		xworkz.inheritance.heriarchical.Elephant elephant= new Elephant();
+		oops.inheritancePrograms.Elephant elephant= new Elephant();
 		elephant.setName("Arjuna");
 		System.out.println(elephant.getName());
         elephant.setSound("Trumpet");

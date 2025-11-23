@@ -1,30 +1,57 @@
-package library;
+package oops.library;
 
-public class Book {
+    public class Book implements Cloneable {
 
-        private String title;
-        private String author;
-        private double price;
+        private String name;
+        private Author author;
 
-        public Book(String title, String author, double price) {
-            this.title = title;
+        public Book(String name, Author author) {
+            this.name = name;
             this.author = author;
-            this.price = price;
+        }
+
+        public static void main(String[] args) throws CloneNotSupportedException {
+
+            Author author = new Author("Raj", 26);
+            Book book = new Book("Wings of Fire", author);
+
+            Book book1 = (Book) book.clone();
+
+            System.out.println(book);
+            System.out.println(book1);
+
+            System.out.println(book.name);
+            System.out.println(book1.name);
+
+            System.out.println(book.author.getName());
+            System.out.println(book1.author.getName());
+
+            book.name = "Java";
+            System.out.println(book);
+            System.out.println(book1);
+
+            System.out.println(book.name);
+            System.out.println(book1.name);
+
+            System.out.println(book.author.getName());
+            System.out.println(book1.author.getName());
+
+            book.author.setName("Ram");
+            System.out.println(book.name);
+            System.out.println(book1.name);
+
+            System.out.println(book.author.getName());
+            System.out.println(book1.author.getName());
         }
 
         @Override
-        public String toString() {
-            return "Book [Title=" + title + ", Author=" + author + ", Price=" + price + "]";
+        protected Object clone() throws CloneNotSupportedException {
+            // return super.clone(); // (for shallow copy)
+            Author author = new Author(this.author.getName(), this.author.getAge());
+            Book book = new Book(this.name, author);
+            return book;
         }
 
-        @Override
-        public boolean equals(Object obj) {
-            if (obj instanceof Book) {
-                Book b = (Book) obj;
-                return this.title.equals(b.title) && this.author.equals(b.author);
-            }
-            return false;
-        }
+        // Shallow cloning – when class has primitive data type
+        // Deep cloning – when class has dependent object
     }
-
-

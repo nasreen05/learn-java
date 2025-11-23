@@ -1,4 +1,4 @@
-package TechnicalPrograms;
+package oops.technicalPrograms;
 
  class SwapNumber {
 

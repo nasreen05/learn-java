@@ -1,28 +1,29 @@
 package oops.arrayAdvance;
 
-class FindNum{
-	
-	public static void arrMethod(){
-		int[] arr=new int[4];//-------- declaration
+class FindNum {
+public static void main(String[] args){
 
 
+ // public static void arrMethod() {
+    int[] arr = new int[4]; // -------- declaration
 
-		for (int i=0; i<arr.length; i++) {
-			arr[i]=3+i;//----------initializetion
-		}
+    for (int i = 0; i < arr.length; i++) {
+      arr[i] = 3 + i; // ----------initializetion
+    }
 
+    for (int i = 0; i < arr.length; i++) {
+      System.out.println(arr[i]);
+    }
 
-		for (int i=0; i<arr.length ;i++ ) {
-			System.out.println(arr[i]);
-		}
-
-		for (int i=0; i<arr.length ;i++ ) {
-			if(arr[i]==5){
-				System.out.println("Find a element in this array "+arr[i]+ "index is "+i);
-			}
-		}	
+    for (int i = 0; i < arr.length; i++) {
+      if (arr[i] == 5) {
+        System.out.println("Find a element in this array " + arr[i] + "index is " + i);
+      }
+    }
+  }
+        }
 		
-		
+		/*
 		public static void byteMethod(){
 			
 			 byte[] arr = new byte[2];
@@ -58,7 +59,9 @@ class FindNum{
 			byteMethod();
 		
 	}
-} 
+}
+
+		 */
 /*
 --------------------------------------------------------------->
  byte[] arr = new byte[2];

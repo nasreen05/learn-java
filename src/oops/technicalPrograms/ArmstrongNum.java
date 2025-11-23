@@ -1,4 +1,4 @@
-package TechnicalPrograms;
+package oops.technicalPrograms;
 
 public class ArmstrongNum {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package TechnicalPrograms;
+package oops.technicalPrograms;
 
 import javax.imageio.stream.ImageInputStream;
 
@@ -14,6 +14,7 @@ if(n>1){
 return r;
 }
 public static void main(String[] args){
+
     System.out.println((recursion(5)));
 }
 }

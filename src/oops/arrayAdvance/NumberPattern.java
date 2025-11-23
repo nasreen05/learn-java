@@ -2,7 +2,7 @@ package oops.arrayAdvance;
 
 class NumberPattern{
 	public static void main(String[] args) {
-		/*
+
 		 int row=5;
 		int star=1;
 
@@ -18,7 +18,7 @@ class NumberPattern{
 		}
 	}
 }
-
+/*
 1
 12
 123

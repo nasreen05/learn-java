@@ -1,12 +1,12 @@
-package Inheritance;
+package oops.inheritancePrograms;
 
-import xworkz.inheritance.heriarchical.Horse;
+import oops.inheritancePrograms.Horse;
 
 public class HorseRunner {
 
 	public static void main(String[] args) {
 		
-		xworkz.inheritance.heriarchical.Horse horse= new Horse();
+		oops.inheritancePrograms.Horse horse= new Horse();
 		horse.setName("Eclipse");
 		System.out.println(horse.getName());
         horse.setSound("Neight");

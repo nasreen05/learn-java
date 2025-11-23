@@ -1,4 +1,4 @@
-package basic.controlStatement;
+package basic.array;
 
 import java.util.Scanner;
 

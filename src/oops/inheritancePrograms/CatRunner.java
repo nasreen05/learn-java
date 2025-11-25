@@ -1,8 +1,5 @@
 package oops.inheritancePrograms;
 
-import basic.controlStatement.LoopsPro1;
-import oops.inheritancePrograms.Cat;
-
 public class CatRunner {
 
 	public static void main(String[] args) {

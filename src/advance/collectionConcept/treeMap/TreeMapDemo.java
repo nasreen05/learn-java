@@ -1,4 +1,4 @@
-package advance.collectionConcept.treeSet;
+package advance.collectionConcept.treeMap;
 
     import java.util.*;
 

@@ -1,4 +1,4 @@
-package advance.collectionConcept.hashSetConcept;
+package advance.collectionConcept.hashMap;
 
 import java.util.*;
 

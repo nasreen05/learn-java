@@ -1,4 +1,4 @@
-package TechnicalPrograms;
+package oops.technicalPrograms;
 
 public class ReverseNum {
   public static void main(String[] args) {

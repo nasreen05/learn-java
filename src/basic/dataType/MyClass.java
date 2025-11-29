@@ -6,7 +6,7 @@ public class MyClass {
     System.out.println("We are learning to how  to create java file and execute run the program ");
 
     }
-    //create 5 diffrence classes
+    //create 5 difference classes
     // each in main method printing 10 statement;
 
 }

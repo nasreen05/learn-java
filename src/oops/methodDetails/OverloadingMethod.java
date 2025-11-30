@@ -1,4 +1,4 @@
-package MethodDetails;
+package oops.methodDetails;
 // Two or More methods can have same name but  different parameters . such methods are called overloaded methods.
 
 // Method overloading cannot be performend by changing  the return type of method

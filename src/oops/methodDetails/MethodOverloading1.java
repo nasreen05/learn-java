@@ -1,4 +1,4 @@
-package MethodDetails;
+package oops.methodDetails;
 class  MathMethod{
     int add(int a, int b){
         return a+b;

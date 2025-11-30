@@ -1,4 +1,4 @@
-package Recursion;
+package oops.recursionConcept;
 
 /* A function in java can call itself such  calling of function by itself is called recursion
 example :Factorial of a numbers
@@ -39,7 +39,7 @@ public class BasicRecursion {
         public static void main(String[] args){
       int n=4;
     System.out.println(" the value of factorial n is : "+ factorial(n));
-    System.out.println(" the value of factoral x is : "+ factorial_iterative(n));
+    System.out.println(" the value of factorial x is : "+ factorial_iterative(n));
     }
     }
 

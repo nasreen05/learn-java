@@ -1,4 +1,4 @@
-package MethodDetails;
+package oops.methodDetails;
 
 class Methcalculation {
   int add(int a, int b) {

@@ -1,4 +1,4 @@
-package basic.operatorPrograms;
+package basic.controlStatement.decisionMakingStatement;
 
 public class TrafficSignal {
   public static void main(String[] args) {

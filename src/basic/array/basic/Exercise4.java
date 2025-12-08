@@ -1,4 +1,4 @@
-package basic.array;
+package basic.array.basic;
 
 public class Exercise4 {
   // Create a java program to add two  matrix of size 2 x 3;

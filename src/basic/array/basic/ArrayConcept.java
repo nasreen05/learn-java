@@ -1,4 +1,4 @@
-package basic.array;
+package basic.array.basic;
 
 public class ArrayConcept {
     public static void main(String[] args){

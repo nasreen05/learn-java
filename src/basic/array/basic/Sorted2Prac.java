@@ -1,4 +1,4 @@
-package basic.array;
+package basic.array.basic;
 
 public class Sorted2Prac {
     public static void main(String[] args){

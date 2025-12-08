@@ -1,4 +1,4 @@
-package basic.array;
+package basic.array.basic;
 
 
 // Calculate the array marks from an array containing marks of all students in physics using for each loop

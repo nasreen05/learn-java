@@ -1,4 +1,4 @@
-package basic.array;
+package basic.array.basic;
 
 
 // An array can be displayed using a for loop :

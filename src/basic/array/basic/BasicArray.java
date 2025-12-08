@@ -1,4 +1,4 @@
-package basic.array;
+package basic.array.basic;
 
 public class BasicArray {
     public static void main(String[]args){
@@ -32,4 +32,4 @@ public class BasicArray {
 }
 
 
-// Arrat indices starts from 0 and goes tuill (n-1) where n is size of the array
+// Array indices starts from 0 and goes till (n-1) where n is size of the array

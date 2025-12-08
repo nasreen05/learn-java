@@ -1,4 +1,4 @@
-package basic.array;
+package basic.array.basic;
 // write a java program to find whether an aray is sorted or not------
 public class SortedExercise7 {
   public static void main(String[] args) {

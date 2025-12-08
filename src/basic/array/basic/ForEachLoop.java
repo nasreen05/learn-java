@@ -1,4 +1,4 @@
-package basic.array;
+package basic.array.basic;
 
 
 /*  array elements can also be reaversed as follows:

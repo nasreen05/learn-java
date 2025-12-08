@@ -1,4 +1,4 @@
-package basic.array;
+package basic.array.basic;
 
 // Write a program to find out whether a given integer is present  in an array or not-----------
 

@@ -1,4 +1,4 @@
-package basic.array;
+package basic.array.basic;
 
 
 /* Multidimensional array  are array of array Each element of a M-D array itself marks in the previous example was a 1-D array.

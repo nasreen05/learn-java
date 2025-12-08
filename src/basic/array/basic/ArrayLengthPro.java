@@ -1,4 +1,4 @@
-package basic.array;
+package basic.array.basic;
 
 
 // Array have a length property which gives the length of the array

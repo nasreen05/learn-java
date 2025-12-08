@@ -1,4 +1,4 @@
-package basic.array;
+package basic.array.basic;
 
 public class ReverseArrayExercise5 {
     public static void main(String[] args){

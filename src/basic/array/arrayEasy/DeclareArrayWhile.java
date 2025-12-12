@@ -1,4 +1,4 @@
-package basic.array.easy;
+package basic.array.arrayEasy;
 
 public class DeclareArrayWhile {
     public static void main(String[] args) {

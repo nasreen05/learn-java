@@ -1,4 +1,4 @@
-package Interface_OPPs;
+package oops.interfacePrograms;
 public class ICICI implements RBI{
 
     String  name;

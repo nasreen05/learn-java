@@ -1,4 +1,4 @@
-package basic.array.arrayEasy;
+package basic.array.searchingPrograms;
 
 public class LinearSearch2 {
     public static void main(String[] args) {

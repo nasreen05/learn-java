@@ -1,4 +1,4 @@
-package basic.array.arrayEasy;
+package basic.array.sortingPrograms;
 
 public class QuickSort  {
     static void quickSort(int[] arr, int start, int end) {

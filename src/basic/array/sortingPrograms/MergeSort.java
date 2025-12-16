@@ -1,4 +1,4 @@
-package basic.array.arrayEasy;
+package basic.array.sortingPrograms;
 
 public class MergeSort {
         public static void mergeSort(int[] arr, int left, int right) {

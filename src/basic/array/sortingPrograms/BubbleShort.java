@@ -1,4 +1,4 @@
-package basic.array.arrayEasy;
+package basic.array.sortingPrograms;
 
 public class BubbleShort {
     public static void main(String[] args) {

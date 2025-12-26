@@ -1,4 +1,4 @@
-package Account;
+package oops.accountPrograms;
 
          class PersonalAccount  extends  Account {
 

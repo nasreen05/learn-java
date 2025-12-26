@@ -1,4 +1,4 @@
-package Account;
+package oops.accountPrograms;
 
 public class CurrentAccount extends Account {
     private String businessName;

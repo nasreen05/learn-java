@@ -1,4 +1,4 @@
-package Area;
+package oops.areaCalculate;
 
 import java.util.Scanner;
 

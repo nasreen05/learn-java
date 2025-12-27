@@ -1,4 +1,4 @@
-package oops.classOopsTopic;
+package oops.classConcept;
 
 public class Shopping {
     static  String nameMall;

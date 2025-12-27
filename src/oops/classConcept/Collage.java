@@ -1,6 +1,4 @@
-package oops.classOopsTopic;
-
-import javax.rmi.CORBA.Stub;
+package oops.classConcept;
 
 class Collage {
     static  String nameCollage;

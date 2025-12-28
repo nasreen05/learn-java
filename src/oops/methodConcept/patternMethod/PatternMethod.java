@@ -1,4 +1,4 @@
-package MethodDetails;
+package oops.methodConcept.patternMethod;
 
 public class PatternMethod {
 

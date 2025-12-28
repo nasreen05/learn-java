@@ -1,4 +1,4 @@
-package MethodDetails;
+package oops.methodConcept.patternMethod;
 
 public class PatternFun2 {
   static int pattern(int n) {

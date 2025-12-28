@@ -1,4 +1,4 @@
-package oops.methodDetails.overloading;
+package basic.controlStatement.jumpingConcept;
 
 class SwitchMonth {
     public static void main(String[] args) {

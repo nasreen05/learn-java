@@ -1,4 +1,4 @@
-package oops.methodDetails.overloading;
+package basic.controlStatement.jumpingConcept;
 
 class SwitchExam{
 	//if else , for, while ,do while

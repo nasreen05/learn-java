@@ -1,4 +1,4 @@
-package oops.methodDetails.overloading;
+package basic.controlStatement.decisionMakingStatement;
 
 class SwitchCollegeGrade {
     public static void main(String[] args) {

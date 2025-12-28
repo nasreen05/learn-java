@@ -1,4 +1,4 @@
-package MethodDetails;
+package oops.methodConcept.basicProgram;
 
 public class basicMethod2 {
     static void  telljoke(){

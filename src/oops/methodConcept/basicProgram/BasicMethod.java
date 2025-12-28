@@ -1,4 +1,4 @@
-package MethodDetails;
+package oops.methodConcept.basicProgram;
 /* sometimes our program grows in sinze and we want to  separate of main method to other method
 for Instance->
 

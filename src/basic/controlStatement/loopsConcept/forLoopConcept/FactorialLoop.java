@@ -1,4 +1,4 @@
-package oops.methodDetails.overloading;
+package basic.controlStatement.loopsConcept.forLoopConcept;
 
 class FactorialLoop {
     public static void main(String[] args) {

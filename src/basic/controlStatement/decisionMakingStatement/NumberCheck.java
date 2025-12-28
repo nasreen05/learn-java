@@ -1,4 +1,4 @@
-package oops.methodDetails.overloading;
+package basic.controlStatement.decisionMakingStatement;
 
 class NumberCheck {
     private int num;

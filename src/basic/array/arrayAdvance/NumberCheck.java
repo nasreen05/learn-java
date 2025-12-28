@@ -1,6 +1,6 @@
 package basic.array.arrayAdvance;
 
-class NumberCheck {
+public class NumberCheck {
     private int num;
 
    

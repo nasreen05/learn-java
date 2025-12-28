@@ -1,4 +1,7 @@
-package oops.methodDetails.overloading;
+package oops.methodConcept.overloading;
+
+import basic.array.arrayAdvance.NumberCheck;
+import basic.controlStatement.decisionMakingStatement.CheckNumber;
 
 class NumberCheckRunner {
     public static void main(String[] args) {

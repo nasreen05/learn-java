@@ -1,4 +1,4 @@
-package MethodDetails;
+package oops.methodConcept;
 
 public class VariableArgument {
 /* A   function with vararg can be create in java using the following  syntax:

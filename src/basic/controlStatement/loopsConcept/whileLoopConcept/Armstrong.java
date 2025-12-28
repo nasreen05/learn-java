@@ -1,4 +1,4 @@
-package oops.methodDetails.overloading;
+package basic.controlStatement.loopsConcept.whileLoopConcept;
 
 class Armstrong{
 	public static void main(String[] args) {

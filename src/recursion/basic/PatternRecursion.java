@@ -1,4 +1,4 @@
-package MethodDetails;
+package recursion.basic;
 
 public class PatternRecursion {
     static void patternRec(int n){

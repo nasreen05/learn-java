@@ -1,4 +1,4 @@
-package oops.methodDetails.overloading;
+package oops.methodConcept.overloading;
 
 class CompanyCeoRunner{
 	public static void main(String[] args) {
@@ -7,10 +7,10 @@ class CompanyCeoRunner{
 		System.out.println(company.getName());
 		System.out.println(company.getCity());
 
-		Ceo ceo=new Ceo("Sging ",1234,"Bangalore");
+		CeoRunner.Ceo ceo=new CeoRunner.Ceo("Sging ",1234,"Bangalore");
 		company.setceo(ceo);
 
-        Ceo ceo1=company.getCeo();
+        CeoRunner.Ceo ceo1=company.getCeo();
         System.out.println("priting comapany details");
 		System.out.println(company.getName());
 		System.out.println(company.getCity());

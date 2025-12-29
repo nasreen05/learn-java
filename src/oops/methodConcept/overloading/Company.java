@@ -1,4 +1,4 @@
-package oops.methodDetails.overloading;
+package oops.methodConcept.overloading;
 
 class Company{
 private String name;
@@ -10,7 +10,7 @@ private int numberOfEmployee;
 //private float ceosalary;
 
 
-private Ceo ceo;
+private CeoRunner.Ceo ceo;
 
 
 public Company(){
@@ -36,10 +36,10 @@ public Company(String name, long id, String city, int numberOfEmployee){
 	System.out.println("Initialize employees");
 	this.numberOfEmployee = numberOfEmployee;
 }
-public  void setceo(Ceo ceo){
+public  void setceo(CeoRunner.Ceo ceo){
 	this.ceo=ceo;
 }
-public Ceo getCeo(){
+public CeoRunner.Ceo getCeo(){
 	return ceo;
 }
 

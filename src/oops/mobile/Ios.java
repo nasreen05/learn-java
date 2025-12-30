@@ -1,6 +1,6 @@
-package Mobile;
+package oops.mobile;
 
-public class Ios extends  Mobile{
+public class Ios extends Mobile {
 
     private String iosVersion;
 

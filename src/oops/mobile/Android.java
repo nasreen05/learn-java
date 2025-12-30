@@ -1,7 +1,7 @@
-package Mobile;
+package oops.mobile;
 
 
- class Android  extends  Mobile{
+ class Android  extends Mobile {
 
         private String  androidVersion;
 

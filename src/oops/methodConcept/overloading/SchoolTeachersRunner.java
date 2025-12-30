@@ -1,10 +1,10 @@
-package oops.methodDetails.overloading;
+package oops.methodConcept.overloading;
 
 class SchoolTeachersRunner{
 
 public static void main(String[]args){
 
-School school= new School("Daspara  high school",1234,"Daspara");
+SchoolRunner.School school= new SchoolRunner.School("Daspara  high school",1234,"Daspara");
 
 System.out.println("School Details ");
 System.out.println(school.getName());

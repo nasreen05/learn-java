@@ -1,28 +1,28 @@
-package college;
+package oops.constructor.college;
 
 public class HodRunner {
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
 
         // --- College Array Example ---
-        College[] colleges = new College[5];
+        college.College[] colleges = new college.College[5];
 
-        colleges[0] = new College();
+        colleges[0] = new college.College();
         colleges[0].setCollegeName("Aliah University");
         colleges[0].setGrade('A');
 
-        colleges[1] = new College();
+        colleges[1] = new college.College();
         colleges[1].setCollegeName("Jadavpur University");
         colleges[1].setGrade('B');
 
-        colleges[2] = new College();
+        colleges[2] = new college.College();
         colleges[2].setCollegeName("Calcutta Medical College");
         colleges[2].setGrade('C');
 
-        colleges[3] = new College();
+        colleges[3] = new college.College();
         colleges[3].setCollegeName("North Bengal University");
         colleges[3].setGrade('D');
 
-        colleges[4] = new College();
+        colleges[4] = new college.College();
         colleges[4].setCollegeName("Presidency University");
         colleges[4].setGrade('A');
 
@@ -56,6 +56,6 @@ public class HodRunner {
             hods[i].showDetails();
             System.out.println();
         }
-    }
+    }*/
 }
 

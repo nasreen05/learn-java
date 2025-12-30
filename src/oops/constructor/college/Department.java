@@ -1,8 +1,8 @@
-package college;
+package oops.constructor.college;
 
 public class Department  extends  College {
 
-        private String departmentName;
+    /*    private String departmentName;
         private int departmentId;
         private String labName;
 
@@ -41,7 +41,7 @@ public class Department  extends  College {
 
         public String getLabName() {
             return labName;
-        }
+        }*/
     }
 
 

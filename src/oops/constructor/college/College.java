@@ -1,8 +1,8 @@
-package college;
+package oops.constructor.college;
 
 public class College {
 
-        private String collegeName;
+       /* private String collegeName;
         private char grade;
 
         public College() {}
@@ -24,7 +24,7 @@ public class College {
         }
         public char getGrade() {
             return grade;
-        }
+        }*/
     }
 
 

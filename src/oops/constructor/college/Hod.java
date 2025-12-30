@@ -1,8 +1,8 @@
 
-package college;
+package oops.constructor.college;
 public class Hod extends Department {
 
-    private String hodName;
+  /*  private String hodName;
     private int hodId;
 
     public Hod(String collegeName, char grade,
@@ -21,5 +21,5 @@ public class Hod extends Department {
         System.out.println("Lab            : " + getLabName());
         System.out.println("HOD Name       : " + hodName);
         System.out.println("HOD ID         : " + hodId);
-    }
+    }*/
 }

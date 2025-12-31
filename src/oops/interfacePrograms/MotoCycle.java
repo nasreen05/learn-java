@@ -1,6 +1,8 @@
-package Interface_OPPs;
+package oops.interfacePrograms;
 
-public class MotoCycle implements  Vehicle {
+import oops.classConcept.Vehicle;
+
+public class MotoCycle extends Vehicle {
 
         int speed, gear;
 

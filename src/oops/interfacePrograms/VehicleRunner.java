@@ -1,4 +1,4 @@
-package Interface_OPPs;
+package oops.interfacePrograms;
 
 public class VehicleRunner {
   public static void main(String[] args) {
@@ -21,7 +21,22 @@ public class VehicleRunner {
    //  biCycle.display1();
 
     MotoCycle motocycle = new MotoCycle();
-    Vehicle vehicle = new MotoCycle(0, 1);
+    Vehicle vehicle = new Vehicle(0, 1) {
+        @Override
+        public void changeGear(int a) {
+
+        }
+
+        @Override
+        public void speedUp(int a) {
+
+        }
+
+        @Override
+        public void applyBreak(int a) {
+
+        }
+    };
     vehicle.speedUp(20);
     vehicle.changeGear(2);
     //system.out.println(vehicle.printStates());

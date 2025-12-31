@@ -1,6 +1,6 @@
 package oops.constructor.basicPrograms;
 
-class Person1 {
+public class Person1 {
 
     private String name;
     private int age;
@@ -10,7 +10,7 @@ class Person1 {
         System.out.println("Default constructor");
     }
 
-    Person1(String name, int age) {
+    protected Person1(String name, int age) {
         this.name = name;
         this.age = age;
         System.out.println("Parameter Constructor");
@@ -25,20 +25,20 @@ class Person1 {
     }
 }
 
-class Employee1 extends Person1 {
+public class Employee1 extends Person1 {
     private int salary;
 
-    Employee1() {
+    public Employee1() {
         this(null, 0, 0);
         System.out.println("Default constructor");
     }
 
-    Employee1(String name, int age, int salary) {
+    public Employee1(String name, int age, int salary) {
         super(name, age);
         this.salary = salary;
     }
 
-    void display() {
+    public void display() {
         System.out.println("name: " + getName() + ", age: " + getAge() + ", salary: " + salary);
     }
 }

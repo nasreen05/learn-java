@@ -1,4 +1,4 @@
-package oops.constructor;
+package oops.constructor.chainingConcept;
 
 class YoutubeUser {
   String username;

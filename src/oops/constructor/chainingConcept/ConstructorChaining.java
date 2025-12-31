@@ -1,4 +1,4 @@
-package MethodDetails;
+package oops.constructor.chainingConcept;
 class Animal {
     void sound() {
         System.out.println("Animal makes a sound");
@@ -18,7 +18,7 @@ class Dog extends Animal {
 }
 
 
-public class MethodChaining {
+public class ConstructorChaining {
 
     public static void main(String[] args) {
         // Upcasting

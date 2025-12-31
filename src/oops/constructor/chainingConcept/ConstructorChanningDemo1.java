@@ -1,4 +1,7 @@
-package oops.constructor;
+package oops.constructor.chainingConcept;
+
+import oops.constructor.basicPrograms.Employee1;
+import oops.constructor.basicPrograms.Person1;
 
 class Person2 {
   private String name;

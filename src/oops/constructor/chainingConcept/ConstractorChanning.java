@@ -1,4 +1,8 @@
-package oops.constructor;
+package oops.constructor.chainingConcept;
+
+import oops.constructor.basicPrograms.Employee1;
+import oops.constructor.basicPrograms.Person1;
+
 // Parent class
 class Person {
     String name;

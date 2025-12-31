@@ -1,4 +1,4 @@
-package MethodDetails;
+package oops.constructor.chainingConcept;
 class Animal1{
     void sound(){
         System.out.println("Animal makes sound");
@@ -17,7 +17,7 @@ void guard(){
 
 }
 
-public class MethodChaining1 {
+public class ConstructorChaining1 {
     public static void main(String[]args){
         Animal1 a=new Dog1();
           a.sound();

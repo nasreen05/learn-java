@@ -2,7 +2,8 @@ package InterfaceTask;
 
 public class InfosysCom implements Company {
 
-  int Id, salary;
+  public int Id;
+    public int salary;
 
   public InfosysCom() {}
 

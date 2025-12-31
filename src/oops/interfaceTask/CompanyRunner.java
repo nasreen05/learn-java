@@ -1,9 +1,9 @@
-package InterfaceTask;
+package oops.interfaceTask;
 
 public class CompanyRunner {
     public static void main(String[]args){
 
-    InfosysCom infosysCom = new InfosysCom();
+    InterfaceTask.InfosysCom infosysCom = new InterfaceTask.InfosysCom();
         System.out.println(infosysCom.Id);
         System.out.println(infosysCom.salary);
 
@@ -15,8 +15,23 @@ public class CompanyRunner {
 
 
         System.out.println(infosysCom.printStates());
-    WiproCom wiproCom = new WiproCom();
-    Company company = new WiproCom(10, 12000);
+    InterfaceTask.WiproCom wiproCom = new InterfaceTask.WiproCom();
+    InterfaceTask.Company company = new InterfaceTask.Company() {
+        @Override
+        public void companyId(int companyName) {
+
+        }
+
+        @Override
+        public void employeId(int employeId) {
+
+        }
+
+        @Override
+        public void salary(int salary) {
+
+        }
+    };
         company.companyId(20);
         company.employeId(30);
 

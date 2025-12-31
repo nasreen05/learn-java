@@ -1,6 +1,6 @@
-package Interface_OPPs;
+package oops.interfacePrograms;
 
- class DellLaptop implements  Laptop {
+ class DellLaptop implements Laptop {
         private int price;
         private String place;
 

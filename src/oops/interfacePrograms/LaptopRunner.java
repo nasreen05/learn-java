@@ -1,4 +1,4 @@
-package Interface_OPPs;
+package oops.interfacePrograms;
 
 public class LaptopRunner {
         public static void main(String[] args){

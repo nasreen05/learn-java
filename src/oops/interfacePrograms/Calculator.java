@@ -1,4 +1,4 @@
-package Interface_OPPs;
+package oops.interfacePrograms;
 
 public class Calculator implements  Add,Sub{
     @Override

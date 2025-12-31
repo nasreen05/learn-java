@@ -11,6 +11,7 @@ public class namePrint {
 
     }
     public static void main(String[] args) {
-     nameSchool(5);
+
+        nameSchool(5);
     }
 }

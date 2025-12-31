@@ -1,15 +1,45 @@
 package oops.classConcept;
 
-public class Vehicle {
+public abstract class Vehicle {
     String color="red";
     String name;
 
     public static void main(String[] args) {
         int price = 10000;
-        Vehicle vehicle = new Vehicle();
+        Vehicle vehicle = new Vehicle() {
+            @Override
+            public void changeGear(int a) {
+
+            }
+
+            @Override
+            public void speedUp(int a) {
+
+            }
+
+            @Override
+            public void applyBreak(int a) {
+
+            }
+        };
         System.out.println(vehicle.color);
         System.out.println(price);
-        Vehicle vehicle1 = new Vehicle();
+        Vehicle vehicle1 = new Vehicle() {
+            @Override
+            public void changeGear(int a) {
+
+            }
+
+            @Override
+            public void speedUp(int a) {
+
+            }
+
+            @Override
+            public void applyBreak(int a) {
+
+            }
+        };
         System.out.println(vehicle1.color);
         vehicle.color = "green";
         System.out.println("After modifying first");
@@ -49,4 +79,9 @@ public class Vehicle {
      }
 
 
+    public abstract void changeGear(int a);
+
+    public abstract void speedUp(int a);
+
+    public abstract void applyBreak(int a);
 }

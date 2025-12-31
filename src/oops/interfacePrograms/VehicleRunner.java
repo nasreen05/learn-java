@@ -21,7 +21,7 @@ public class VehicleRunner {
    //  biCycle.display1();
 
     MotoCycle motocycle = new MotoCycle();
-    Vehicle vehicle = new Vehicle(0, 1) {
+    Vehicle vehicle = new Vehicle() {
         @Override
         public void changeGear(int a) {
 

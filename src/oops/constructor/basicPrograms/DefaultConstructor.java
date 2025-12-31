@@ -1,4 +1,4 @@
-package oops.constructor;
+package oops.constructor.basicPrograms;
 class Youtube {
     private String userName;
     private String email;

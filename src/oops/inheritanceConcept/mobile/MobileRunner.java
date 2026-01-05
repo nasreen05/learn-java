@@ -1,4 +1,4 @@
-package oops.mobile;
+package oops.inheritanceConcept.mobile;
 
  class MobileRunner {
 

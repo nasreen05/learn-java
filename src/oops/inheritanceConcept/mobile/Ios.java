@@ -1,4 +1,4 @@
-package oops.mobile;
+package oops.inheritanceConcept.mobile;
 
 public class Ios extends Mobile {
 

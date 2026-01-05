@@ -1,4 +1,4 @@
-package oops.familyPrograms;
+package oops.inheritanceConcept.familyPrograms;
 
 public class GrandFather {
 

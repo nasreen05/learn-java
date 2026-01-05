@@ -1,4 +1,4 @@
-package Heirarchical;
+package oops.inheritanceConcept.heirarchicalPrograms;
 
 public class DumBiryani  extends  Biryani {
 

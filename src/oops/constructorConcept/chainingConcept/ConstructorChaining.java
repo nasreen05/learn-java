@@ -1,4 +1,4 @@
-package oops.constructor.chainingConcept;
+package oops.constructorConcept.chainingConcept;
 class Animal {
     void sound() {
         System.out.println("Animal makes a sound");

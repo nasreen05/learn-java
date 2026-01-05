@@ -1,7 +1,7 @@
-package oops.constructor.chainingConcept;
+package oops.constructorConcept.chainingConcept;
 
-import oops.constructor.basicPrograms.Employee1;
-import oops.constructor.basicPrograms.Person1;
+import oops.constructorConcept.basicPrograms.Employee1;
+import oops.constructorConcept.basicPrograms.Person1;
 
 // Parent class
 class Person {

@@ -1,4 +1,4 @@
-package oops.library;
+package oops.interfaceConcept.library;
 
 import java.util.Objects;
 

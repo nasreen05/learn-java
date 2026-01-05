@@ -1,4 +1,4 @@
-package oops.constructor.basicPrograms;
+package oops.constructorConcept.basicPrograms;
 
 public class Employee1 extends Person1 {
     private int salary;

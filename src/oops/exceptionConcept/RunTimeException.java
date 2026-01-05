@@ -1,4 +1,4 @@
-package oops.exceptionPrograms;
+package oops.exceptionConcept;
 
 public class RunTimeException {
     public static void main(String[] args) {

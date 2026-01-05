@@ -1,10 +1,9 @@
-package oops.exceptionPrograms;
+package oops.exceptionConcept;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.sql.SQLException;
 
-    public class CompileTimeException {
+public class CompileTimeException {
 
         public static void main(String[] args) {
             try {

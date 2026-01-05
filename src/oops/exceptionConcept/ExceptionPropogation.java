@@ -1,4 +1,4 @@
-package oops.exceptionPrograms;
+package oops.exceptionConcept;
 
 public class ExceptionPropogation {
     public static void main(String[] args) {

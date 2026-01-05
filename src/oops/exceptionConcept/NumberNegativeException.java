@@ -1,4 +1,4 @@
-package oops.exceptionPrograms;
+package oops.exceptionConcept;
 
 public class NumberNegativeException extends Exception{
         public NumberNegativeException() {}

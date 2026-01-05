@@ -1,5 +1,5 @@
-package Abstraction;
-    public class College extends University {
+package oops.abstractionConcept;
+    public class College extends Abstraction.University {
             public String name;
             public College(){}
             public College(String name, String universityName){

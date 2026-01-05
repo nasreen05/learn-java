@@ -1,4 +1,4 @@
-package oops.areaCalculate;
+package oops.inheritanceConcept.areaCalculate;
 
 public class CircleRunner {
     public static  void main (String [] args){

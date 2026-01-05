@@ -1,4 +1,4 @@
-package oops.areaCalculate;
+package oops.inheritanceConcept.areaCalculate;
 
 public class Rectangle extends Area{
 

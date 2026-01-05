@@ -1,6 +1,6 @@
 // --------------------------Encapsulation
 
-package oops.areaCalculate;
+package oops.inheritanceConcept.areaCalculate;
 
 public class Area {
     protected   void findArea(){

@@ -1,4 +1,4 @@
-package oops.areaCalculate;
+package oops.inheritanceConcept.areaCalculate;
 
 import java.util.Scanner;
 

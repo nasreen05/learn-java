@@ -1,4 +1,4 @@
-package oops.interfacePrograms;
+package oops.interfaceConcept;
 public class RBIRunner {
     public static void main (String [] args){
         RBI rbi = new SBI();

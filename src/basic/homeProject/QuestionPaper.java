@@ -1,4 +1,4 @@
-package HomeProject;
+package basic.homeProject;
 
 import java.util.Scanner;
 

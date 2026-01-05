@@ -1,4 +1,4 @@
-package library;
+package oops.interfaceConcept.library;
  class Employee1 {
 
         private String name;

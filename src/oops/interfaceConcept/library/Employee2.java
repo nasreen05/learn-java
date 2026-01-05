@@ -1,5 +1,5 @@
-package oops.library;
-import oops.exceptionPrograms.Bike;
+package oops.interfaceConcept.library;
+import oops.exceptionConcept.Bike;
 
 import java.util.Objects;
  // assuming Bike class exists in this package

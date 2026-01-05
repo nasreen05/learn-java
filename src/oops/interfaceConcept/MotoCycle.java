@@ -1,4 +1,4 @@
-package oops.interfacePrograms;
+package oops.interfaceConcept;
 
 import oops.classConcept.Vehicle;
 

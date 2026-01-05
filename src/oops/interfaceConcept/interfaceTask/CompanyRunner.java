@@ -1,4 +1,4 @@
-package oops.interfaceTask;
+package oops.interfaceConcept.interfaceTask;
 
 public class CompanyRunner {
     public static void main(String[]args){

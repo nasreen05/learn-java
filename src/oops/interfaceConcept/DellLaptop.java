@@ -1,4 +1,4 @@
-package oops.interfacePrograms;
+package oops.interfaceConcept;
 
  class DellLaptop implements Laptop {
         private int price;

@@ -1,4 +1,4 @@
-package oops.interfacePrograms;
+package oops.interfaceConcept;
 
 class AsusLaptop implements Laptop{
         private int price;

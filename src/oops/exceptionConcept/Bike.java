@@ -1,4 +1,4 @@
-package oops.exceptionPrograms;
+package oops.exceptionConcept;
 
 public class Bike  extends Vehicle{
     void display() throws  ArithmeticException{

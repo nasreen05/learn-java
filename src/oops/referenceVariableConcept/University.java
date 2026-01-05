@@ -1,4 +1,4 @@
-package oops.referenceVariable;
+package oops.referenceVariableConcept;
 class Department{
     String D_name;
     String HOD;

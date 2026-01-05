@@ -1,4 +1,4 @@
-package oops.referenceVariable;
+package oops.referenceVariableConcept;
 class Room1{
     String name;
     int id;

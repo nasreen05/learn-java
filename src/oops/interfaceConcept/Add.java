@@ -1,4 +1,4 @@
-package oops.interfacePrograms;
+package oops.interfaceConcept;
 
 public interface Add {
 

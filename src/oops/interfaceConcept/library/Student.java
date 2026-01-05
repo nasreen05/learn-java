@@ -1,4 +1,4 @@
-package library;
+package oops.interfaceConcept.library;
 
 public class Student {
         private String name;

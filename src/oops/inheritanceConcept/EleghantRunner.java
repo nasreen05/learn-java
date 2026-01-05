@@ -1,4 +1,4 @@
-package oops.inheritancePrograms;
+package oops.inheritanceConcept;
 
 public class EleghantRunner {
 

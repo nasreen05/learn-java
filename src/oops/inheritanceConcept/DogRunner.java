@@ -1,11 +1,9 @@
-	package oops.inheritancePrograms;
-
-    import oops.inheritancePrograms.Dog;
+	package oops.inheritanceConcept;
 
     public class DogRunner {
 
 		    public static void main(String[] args) {
-		        oops.inheritancePrograms.Dog dog = new Dog();
+		        oops.inheritanceConcept.Dog dog = new Dog();
 		        dog.setName("golden Retrive");
 		        System.out.println("Dog name is : " + dog.getName());
 		        dog.setSound("bark");

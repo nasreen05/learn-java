@@ -1,12 +1,10 @@
-package oops.inheritancePrograms;
-
-import oops.inheritancePrograms.Horse;
+package oops.inheritanceConcept;
 
 public class HorseRunner {
 
 	public static void main(String[] args) {
 		
-		oops.inheritancePrograms.Horse horse= new Horse();
+		oops.inheritanceConcept.Horse horse= new Horse();
 		horse.setName("Eclipse");
 		System.out.println(horse.getName());
         horse.setSound("Neight");

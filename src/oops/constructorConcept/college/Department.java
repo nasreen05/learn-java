@@ -1,4 +1,4 @@
-package oops.constructor.college;
+package oops.constructorConcept.college;
 
 public class Department  extends  College {
 

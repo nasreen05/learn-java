@@ -1,5 +1,5 @@
 
-package oops.constructor.college;
+package oops.constructorConcept.college;
 public class Hod extends Department {
 
   /*  private String hodName;

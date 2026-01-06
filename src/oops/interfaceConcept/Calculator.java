@@ -1,6 +1,6 @@
 package oops.interfaceConcept;
 
-public class Calculator implements  Add,Sub{
+public abstract class Calculator implements  Add,Sub{
     @Override
     public int  add(int a , int b){
         return a+b;
@@ -10,5 +10,7 @@ public class Calculator implements  Add,Sub{
             return a-b;
 
         }
-    }
+
+    public abstract void operation(int a, int b);
+}
 

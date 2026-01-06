@@ -1,4 +1,4 @@
-package Abstraction;
+package oops.abstractionConcept;
 // Abstract class
 abstract class Animal {
     // Abstract method (no body)

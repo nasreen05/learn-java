@@ -1,4 +1,4 @@
-package Multiple_Inherit_InterfaceProgram;
+package oops.inheritanceConcept.multiple_Inherit_InterfaceProgram;
 
     public class Test {
         public static void main(String[] args) {

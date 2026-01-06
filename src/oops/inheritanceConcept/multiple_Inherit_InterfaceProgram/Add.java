@@ -1,6 +1,8 @@
-package Multiple_Inherit_InterfaceProgram;
+package oops.inheritanceConcept.multiple_Inherit_InterfaceProgram;
 
-    class Add implements Calculator {
+import oops.interfaceConcept.Calculator;
+
+class Add extends Calculator {
         @Override
         public void operation(int a, int b) {
             System.out.println("Addition: " + (a + b));

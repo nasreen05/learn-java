@@ -1,4 +1,4 @@
-package Multiple_Inherit_InterfaceProgram;
+package oops.inheritanceConcept.multiple_Inherit_InterfaceProgram;
 
 interface Calculator {
     default void showInfo() {

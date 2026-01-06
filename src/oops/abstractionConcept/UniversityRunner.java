@@ -1,4 +1,4 @@
-package Abstraction;
+package oops.abstractionConcept;
 
 public class UniversityRunner {
   public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class UniversityRunner {
     college.examination();
     college.InternalTest();
 
-    University university = new College();
+    Abstraction.University university = new College();
     // Implementation Object
     // Loosen Coupling
 

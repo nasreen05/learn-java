@@ -1,6 +1,6 @@
 package oops.inheritanceConcept.heirarchicalPrograms;
 
-public class DumBiryani  extends  Biryani {
+public class DumBiryani  extends Heirarchical.Biryani {
 
 
         String place;
@@ -24,7 +24,7 @@ public class DumBiryani  extends  Biryani {
             System.out.println("Dum Biryani Details ");
 
             System.out.println("name --  " + name);
-            System.out.println("price -- " + price );
+            System.out.println("price -- " + place );
             System.out.println("place -- " + place );
         }
     }

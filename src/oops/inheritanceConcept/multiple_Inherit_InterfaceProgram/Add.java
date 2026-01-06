@@ -7,4 +7,7 @@ class Add extends Calculator {
         public void operation(int a, int b) {
             System.out.println("Addition: " + (a + b));
         }
+
+    public void showInfo() {
     }
+}

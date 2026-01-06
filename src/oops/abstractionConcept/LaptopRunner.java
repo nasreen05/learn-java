@@ -1,4 +1,4 @@
-package Abstraction;
+package oops.abstractionConcept;
 
 abstract class Laptop {
     private String brand;

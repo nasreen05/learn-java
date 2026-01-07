@@ -1,4 +1,4 @@
-package Abstraction;
+package oops.abstractionConcept;
 abstract  class   Animal1{
 
     public  abstract  void sound();

@@ -1,4 +1,4 @@
-package Abstraction;
+package oops.abstractionConcept;
 
 
 public abstract class University{

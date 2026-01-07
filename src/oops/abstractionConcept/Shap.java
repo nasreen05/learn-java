@@ -1,4 +1,4 @@
-package Abstraction;
+package oops.abstractionConcept;
 
 // abstract class - class which is declared as abstract
 public abstract class Shap {

@@ -38,6 +38,7 @@ public class RefVarDemo {
          Collage t1=new Collage("Kolkata collage ", "kolkata");
     Student st2=new Student("Reshma ","Delhi");
     Student st3 =new Student("Subhash","Mumbai");
+    t1.collageDetails();
     st1.studentDetails();
     st2.studentDetails();
     st3.studentDetails();

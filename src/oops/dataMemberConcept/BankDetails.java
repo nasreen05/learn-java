@@ -13,10 +13,10 @@ void Details(){
 public class BankDetails {
     public static void main(String[] args) {
         Bank.ceo="Neha Nasreen";
-        Bank c1=new Bank();
-        c1.id=101;
-        c1.name="SBI";
-        c1.Details();
+        Bank c0=new Bank();
+        c0.id=101;
+        c0.name="SBI";
+        c0.Details();
 
         Bank c2=new Bank();
         c2.id=201;

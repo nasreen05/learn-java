@@ -1,4 +1,4 @@
-package oops.methodConcept.basicProgram;
+package oops.methodConcept.technicalPrograms;
 
 
 // write a function to print nth term of fibonanci series using recursion

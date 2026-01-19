@@ -1,4 +1,4 @@
-package oops.methodConcept.basicProgram;
+package oops.methodConcept.technicalPrograms;
 
 public class MultiplicationTable {
   static int multiplication(int n) {

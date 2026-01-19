@@ -1,4 +1,4 @@
-package oops.methodConcept.basicProgram;
+package oops.methodConcept.technicalPrograms;
 //Write a recursion function to calculate sum of first n natural numbers
 public class TechnicalPro2 {
 static int sumRec( int n){

@@ -15,9 +15,9 @@ public class SelectionCode {
                 }
             }
 
-        System.out.println("After short");
-        for (int x : num)
-            System.out.println(x);
+            System.out.println("After short");
+            for (int x : num)
+                System.out.println(x);
 
         }
     }

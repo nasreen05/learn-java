@@ -1,11 +1,11 @@
 package oops.inheritanceConcept.heirarchicalPrograms;
 
-public class DumBiryani  extends Heirarchical.Biryani {
+public class DumBiryani  extends Biryani {
 
 
         String place;
 
-        public DumBiryani() {
+        public DumBiryani(){
 
         }
 

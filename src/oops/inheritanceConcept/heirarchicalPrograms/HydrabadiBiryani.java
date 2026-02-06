@@ -1,6 +1,6 @@
 package oops.inheritanceConcept.heirarchicalPrograms;
 
-class HydrabadiBiryani extends Heirarchical.Biryani {
+class HydrabadiBiryani extends Biryani {
  String riceType;
  public HydrabadiBiryani() {
  }

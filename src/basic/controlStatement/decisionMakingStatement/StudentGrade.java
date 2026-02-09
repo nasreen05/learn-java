@@ -1,0 +1,22 @@
+package basic.controlStatement.decisionMakingStatement;
+
+import java.util.Scanner;
+
+public class StudentGrade {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println(" Enter the marks ");
+        int marks=sc.nextInt();
+        if(marks >=90)
+            System.out.println(" Grade A");
+        else if (marks >=75)
+            System.out.println("Garde B");
+        else if (marks >=50)
+            System.out.println(" Grade C");
+        else
+            System.out.println(" Fail");
+
+        }
+
+    }
+

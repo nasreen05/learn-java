@@ -1,6 +1,4 @@
-package oops.methodConcept.basicProgram;
-
-import javafx.scene.transform.Scale;
+package oops.methodConcept.technicalPrograms;
 
 import java.util.Scanner;
 

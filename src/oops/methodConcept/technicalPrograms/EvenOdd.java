@@ -1,4 +1,4 @@
-package oops.methodConcept.basicProgram;
+package oops.methodConcept.technicalPrograms;
 
 import java.util.Scanner;
 

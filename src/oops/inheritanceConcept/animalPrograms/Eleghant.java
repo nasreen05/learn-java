@@ -1,6 +1,6 @@
-package oops.inheritanceConcept;
+package oops.inheritanceConcept.animalPrograms;
 
-class Elephant extends Animal{
+class Elephant extends Animal {
     private String name;
     private String sound;
     private int noOfLegs;

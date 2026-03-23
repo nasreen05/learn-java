@@ -1,9 +1,9 @@
-package oops.inheritanceConcept;
+package oops.inheritanceConcept.animalPrograms;
 
 public class CatRunner {
 
 	public static void main(String[] args) {
-		oops.inheritanceConcept.Cat cat= new Cat();
+		Cat cat= new Cat();
 		cat.setName("White cat");
         System.out.println("Meow");
         cat.setSound("Meow");

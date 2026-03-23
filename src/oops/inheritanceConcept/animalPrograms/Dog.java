@@ -1,4 +1,4 @@
-package oops.inheritanceConcept;
+package oops.inheritanceConcept.animalPrograms;
 
 public class Dog extends Animal {
 

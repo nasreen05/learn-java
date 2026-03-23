@@ -1,10 +1,10 @@
-package oops.inheritanceConcept;
+package oops.inheritanceConcept.animalPrograms;
 
 public class ElephantRunner {
 
 	public static void main(String[] args) {
 		
-		oops.inheritanceConcept.Elephant elephant= new Elephant();
+		Elephant elephant= new Elephant();
 		elephant.setName("Arjuna");
 		System.out.println(elephant.getName());
         elephant.setSound("Trumpet");

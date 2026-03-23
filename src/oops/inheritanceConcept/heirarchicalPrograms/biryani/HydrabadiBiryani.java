@@ -1,4 +1,4 @@
-package oops.inheritanceConcept.heirarchicalPrograms;
+package oops.inheritanceConcept.heirarchicalPrograms.biryani;
 
 class HydrabadiBiryani extends Biryani {
  String riceType;

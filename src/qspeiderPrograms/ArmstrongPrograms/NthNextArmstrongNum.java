@@ -1,4 +1,4 @@
-package programmingClass.ArmstrongPrograms;
+package qspeiderPrograms.ArmstrongPrograms;
 
 public class NthNextArmstrongNum {
 

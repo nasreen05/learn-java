@@ -1,8 +1,8 @@
-package programmingClass.ArmstrongPrograms;
+package qspeiderPrograms.ArmstrongPrograms;
 
-import static programmingClass.ArmstrongPrograms.CheckArmStrong.isArmStrongNumber;
-import static programmingClass.ArmstrongPrograms.NextArmstrongNum.nextArmStrong;
-import static programmingClass.ArmstrongPrograms.PreviousArmstrongNum.previousArmStrong;
+import static qspeiderPrograms.ArmstrongPrograms.CheckArmStrong.isArmStrongNumber;
+import static qspeiderPrograms.ArmstrongPrograms.NextArmstrongNum.nextArmStrong;
+import static qspeiderPrograms.ArmstrongPrograms.PreviousArmstrongNum.previousArmStrong;
 
 public class NearestArmStrong {
         public static void main(String[] args) {

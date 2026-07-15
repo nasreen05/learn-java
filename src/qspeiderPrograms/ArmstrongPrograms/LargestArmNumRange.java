@@ -1,6 +1,6 @@
-package programmingClass.ArmstrongPrograms;
+package qspeiderPrograms.ArmstrongPrograms;
 
-import static programmingClass.ArmstrongPrograms.CheckArmStrong.isArmStrongNumber;
+import static qspeiderPrograms.ArmstrongPrograms.CheckArmStrong.isArmStrongNumber;
 
 public class LargestArmNumRange {
     public static void main(String[] args) {

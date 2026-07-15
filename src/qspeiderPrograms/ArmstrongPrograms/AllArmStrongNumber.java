@@ -1,4 +1,4 @@
-package programmingClass.ArmstrongPrograms;
+package qspeiderPrograms.ArmstrongPrograms;
   /* ----> Check whether a number is Armstrong or not
 
 --> Find next Armstrong number

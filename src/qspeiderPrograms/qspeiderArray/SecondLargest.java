@@ -1,4 +1,4 @@
-package basic.array.qspeiderArray;
+package qspeiderPrograms.qspeiderArray;
 
 public class SecondLargest {
     public static void main(String[] args) {

@@ -1,7 +1,5 @@
-package basic.array.qspeiderArray;
+package qspeiderPrograms.qspeiderArray;
 
-
-import java.security.IdentityScope;
 
 public class SortedOrNot {
     public static void main(String[] args) {

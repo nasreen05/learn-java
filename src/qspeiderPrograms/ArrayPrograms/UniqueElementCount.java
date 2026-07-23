@@ -1,4 +1,4 @@
-package qspeiderPrograms.qspeiderArray;
+package qspeiderPrograms.ArrayPrograms;
 
 public class UniqueElementCount {
     public static int uniqueElement(int[] a) {

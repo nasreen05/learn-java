@@ -1,4 +1,4 @@
-package qspeiderPrograms.qspeiderArray;
+package qspeiderPrograms.ArrayPrograms;
 
 public class DecimalIntoBinary {
     public static void main(String[] args) {

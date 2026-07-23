@@ -1,4 +1,4 @@
-package qspeiderPrograms.qspeiderArray;
+package qspeiderPrograms.ArrayPrograms;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package qspeiderPrograms.qspeiderArray;
+package qspeiderPrograms.ArrayPrograms;
 
 public class HighestRepeatedElement {
     public static void highestRepeatedElement(int[] a) {
